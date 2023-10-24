@@ -1,1 +1,7 @@
 # Privacy Patterns
+
+Privacy holds a significant role in contemporary information systems, drawing increasing scrutiny from regulatory bodies, society at large, and the scientific community. Privacy patterns, as practical solution blueprints, play a crucial role in assisting developers in addressing the challenges posed by privacy-enhancing technologies, especially when they may lack expertise in privacy matters. This study offers a comprehensive overview of the current state of research in the emerging realm of privacy patterns and related aspects of privacy by design. It sheds light on the latest advancements in privacy patterns, contributing to the advancement of future research in this field.
+
+Through an exhaustive and systematic literature review, we identified, analyzed, and categorized 116 works. The results, presented in a mapping format, offer a holistic perspective on the developments in this research domain and underscore the existing gaps that require further exploration. Our research classifies the identified privacy patterns and privacy strategies, encompassing catalogs, languages, taxonomies, as well as describing modeling and analysis frameworks. Based on our findings, we propose recommendations for additional research directions, emphasizing the pressing need for further investigation in this crucial area. 
+
+We  provide the research foundation in the form of a concept matrix of the identified works and patterns via GitHub.
